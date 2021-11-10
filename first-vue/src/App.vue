@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import mytitle from "./components/mytitle.vue";
-import jumboimg from "./components/jumbotron.vue";
+import mytitle from "./components/title.vue";
+import jumboimg from "./components/hero.vue";
 export default {
   name: "App",
   components: {

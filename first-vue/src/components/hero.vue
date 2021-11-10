@@ -14,7 +14,7 @@ export default {
   width: 100%;
   background-image: url(https://wallpapercave.com/wp/wp6722699.jpg);
   background-size: 100%;
-  background-position: center;
+  background-position-y: 70%;
   background-repeat: no-repeat;
 }
 </style>
